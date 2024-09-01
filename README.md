@@ -529,5 +529,5 @@ int main() {
 
 ### **Conclusion**
 
-Arrays and strings are essential data structures in C++. Arrays provide a way to store and manipulate fixed-size collections of elements, while `std::string` offers a more flexible and user-friendly approach to handling sequences of characters. Understanding how to use both effectively allows for more efficient and robust data management in C++ programs.
+Arrays and strings are essential data structures in C++. Arrays provide a way to store and manipulate fixed-size collections of elements, while `std::string` offers a more flexible and user-friendly approach to handling sequences of characters. Understanding how to use both effectively allows for more efficient and robust data management in C++ programs. 
 
